@@ -3,7 +3,7 @@ title: "Welcome!"
 layout: single
 permalink: /
 author_profile: true
-classes: wide
+# classes: wide
 ---
 
 I'm Peter, a Ph.D. Candidate at Brown University in Providence Rhode Island. I am in the [Department of Earth, Environmental, and Planetary Sciences (DEEPS)](https://deeps.brown.edu/) and the [Data Science Institude at Brown (DSI)](https://dsi.brown.edu/) with an affiliation with the [Institute at Brown University for Environment and Society (IBES)](https://ibes.brown.edu/). I work with [Dr. Karianne J. Bergen](https://www.kariannebergen.com/) in the [SciML Research Group](https://sites.brown.edu/bergen-lab/).
@@ -12,7 +12,7 @@ My work sits at the intersection of scientific machine learning, climate science
 
 - Learn more [About Me](/about/)
 - View my [Resume & CV](/resume/)
-- Explore my [Research](/publications/)
+- Explore my [Research](/research/)
 - Or [Contact Me](/contact/)
 
 
