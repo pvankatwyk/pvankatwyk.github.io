@@ -1,0 +1,99 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Make every font on the resume page extra small
+.page-resume .page__content > p {
+  font-size: 1em;
+//   font-size: 0.8em;
+  line-height: 1.4;
+}
+
+
+
+/* Color each social icon based on its class */
+
+.author__urls a[href*="linkedin.com"] i {
+  color: #0077B5; /* LinkedIn blue */
+}
+
+.author__urls a[href*="github.com"] i {
+  color: #181717; /* GitHub black */
+}
+
+.author__urls a[href*="google.com"] i {
+  color: #4285F4; /* Google blue */
+}
+
+.author__urls a[href*="orcid.org"] i {
+  color: #A6CE39; /* ORCID green */
+}
+
+.author__urls a[href^="mailto:"] i {
+  color: #D44638; /* A nice red for email */
+}
+
+.author__urls a[href*="brown.edu"] i {
+  color: #4E3629; /* Optional: Brown University brown */
+}
+
+
+// .author__urls a i:hover {
+//   opacity: 0.8;
+//   transition: opacity 0.2s ease-in-out;
+// }
+
+/* Make the sidebar avatar image larger */
+.author__avatar img {
+  width: 160px;   /* default is ~90px — increase as needed */
+  height: auto;   /* maintain aspect ratio */
+  border-radius: 50%; /* keep it circular */
+  margin-bottom: 1rem;
+  max-width: none !important;
+}
+
+/* Keep the entire sidebar fully visible at all times */
+.sidebar {
+  opacity: 0.9 !important;
+  transition: none !important;
+}
+
+/* Prevent whole sidebar from fading on hover */
+.author__urls-wrapper {
+  opacity: 1 !important;
+  transition: none !important;
+}
+
+/* Make each link slightly transparent by default */
+.author__urls a {
+  opacity: 0.7;
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* On hover: full opacity */
+.author__urls a:hover {
+  opacity: 1;
+}
+
+
+html {
+  font-size: 17px; /* Default is ~16px */
+}
+
+// nav#site-nav {
+//   font-size: 0.95rem;
+//   padding-top: 0.4rem;
+//   padding-bottom: 0.4rem;
+// }
+
+.page__content {
+  max-width: 1000px; /* Adjust to taste: try 700–900px */
+  margin-left: auto;
+  margin-right: auto;
+}
