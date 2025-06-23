@@ -16,9 +16,9 @@
 title: Peter Van Katwyk
 email: pvankatwyk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   Peter Van Katwyk is a Ph.D. candidate at Brown University, 
+   NSF GRFP Fellow, and machine learning engineer researching 
+   climate, AI, and uncertainty quantification.
 twitter_username: username
 github_username: pvankatwyk
 minimal_mistakes_skin: dirt
