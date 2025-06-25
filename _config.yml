@@ -19,6 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
    Peter Van Katwyk is a Ph.D. candidate at Brown University, 
    NSF GRFP Fellow, and machine learning engineer researching 
    climate, AI, and uncertainty quantification.
+url: "https://pvankatwyk.com"
+baseurl: ""
 twitter_username: username
 github_username: pvankatwyk
 minimal_mistakes_skin: dirt
