@@ -12,9 +12,11 @@ I've published first-author work in journals like JAMES, GMD, and TMLR, and have
 
 ### First-Author
 
-- Van Katwyk & Bergen (2025). *HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model*. TMLR. *(to be submitted)*
+- Van Katwyk et al. (2025) *Rewiring climate modeling with machine learning emulators*. Nature Communications Earth & Environment (in review).
 
-- Van Katwyk et al. (2025). *ISEFlow v1.0: A Flow-Based Neural Network Emulator for Improved Sea Level Projections and Uncertainty Quantification*. *Geoscientific Model Development*. [https://doi.org/10.5194/egusphere-2025-870](https://doi.org/10.5194/egusphere-2025-870)
+- Van Katwyk & Bergen (2025). *HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model*. TMLR. [https://doi.org/10.48550/arXiv.2510.05054](https://doi.org/10.48550/arXiv.2510.05054)
+
+- Van Katwyk et al. (2025). *ISEFlow v1.0: A Flow-Based Neural Network Emulator for Improved Sea Level Projections and Uncertainty Quantification*. *The Cryosphere (submitted)*. [https://doi.org/10.5194/egusphere-2025-870](https://doi.org/10.5194/egusphere-2025-870)
 
 - Van Katwyk et al. (2023). *A Variational LSTM Emulator of Sea Level Contribution from the Antarctic Ice Sheet*. *JAMES*. [https://doi.org/10.1029/2023MS003899](https://doi.org/10.1029/2023MS003899)
 
@@ -28,7 +30,9 @@ I've published first-author work in journals like JAMES, GMD, and TMLR, and have
 
 ## Talks (Invited + Oral Presentations)
 
-<!-- - **ML for Climate: Challenges and Opportunities** – Brigham Young University Seminar Series, Feb 2025 *(Invited)* -->
+- Rewiring Climate Modeling with Emulators: A Case Study in Ice Sheet Emulation, Brown University Lunch Bunch Talk, 2025
+
+- Machine Learning emulators of sea level contribution, NASA Sea Level Change Team Seminar, Aug 2025, *(Invited)*
 
 - Emulation of sea level rise from the Antarctic and Greenland Ice Sheets using ISEFlow – World Climate Research Programme Emulator Task Team, Feb 2025 *(Invited)*
 
