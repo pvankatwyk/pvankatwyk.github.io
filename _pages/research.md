@@ -16,7 +16,7 @@ I've published first-author work in journals like JAMES, GMD, and TMLR, and have
 
 - Van Katwyk & Bergen (2025). *HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model*. TMLR. [https://doi.org/10.48550/arXiv.2510.05054](https://doi.org/10.48550/arXiv.2510.05054)
 
-- Van Katwyk et al. (2025). *ISEFlow v1.0: A Flow-Based Neural Network Emulator for Improved Sea Level Projections and Uncertainty Quantification*. *The Cryosphere (submitted)*. [https://doi.org/10.5194/egusphere-2025-870](https://doi.org/10.5194/egusphere-2025-870)
+- Van Katwyk et al. (2025). *ISEFlow v1.0: A Flow-Based Neural Network Emulator for Improved Sea Level Projections and Uncertainty Quantification*. *The Cryosphere (submitted)*. [https://doi.org/10.5194/egusphere-2025-4914](https://doi.org/10.5194/egusphere-2025-4914)
 
 - Van Katwyk et al. (2023). *A Variational LSTM Emulator of Sea Level Contribution from the Antarctic Ice Sheet*. *JAMES*. [https://doi.org/10.1029/2023MS003899](https://doi.org/10.1029/2023MS003899)
 
