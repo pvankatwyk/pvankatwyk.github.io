@@ -9,13 +9,13 @@ Please feel free to view or download my resume and CV below. For custom versions
 
 
 ## Resume:
-<iframe src="/assets/resumes/vankatwyk_resume_jun2025.pdf" width="100%" height="750px" style="border: none;">
+<iframe src="/assets/resumes/vankatwyk_resume_may2026.pdf" width="100%" height="750px" style="border: none;">
   Your browser does not support PDFs.
-  <a href="/assets/resumes/vankatwyk_resume_jun2025.pdf">Download the PDF</a> instead.
+  <a href="/assets/resumes/vankatwyk_resume_may2026.pdf">Download the PDF</a> instead.
 </iframe>
 
 ## CV:
-<iframe src="/assets/resumes/vankatwyk_cv_jun2025.pdf" width="100%" height="750px" style="border: none;">
+<iframe src="/assets/resumes/vankatwyk_cv_may2026.pdf" width="100%" height="750px" style="border: none;">
   Your browser does not support PDFs.
-  <a href="/assets/resumes/vankatwyk_cv_jun2025.pdf">Download the PDF</a> instead.
+  <a href="/assets/resumes/vankatwyk_cv_may2026.pdf">Download the PDF</a> instead.
 </iframe>

@@ -16,12 +16,11 @@
 title: Peter Van Katwyk
 email: pvankatwyk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   Peter Van Katwyk is a Ph.D. candidate at Brown University, 
-   NSF GRFP Fellow, and machine learning engineer researching 
-   climate, AI, and uncertainty quantification.
+   Peter Van Katwyk is an Applied Scientist at Microsoft and Ph.D. graduate of Brown University.
+   NSF GRFP Fellow specializing in applied machine learning, AI for real-world systems,
+   and scientific ML — from climate modeling to enterprise AI.
 url: "https://pvankatwyk.com"
 baseurl: ""
-twitter_username: username
 github_username: pvankatwyk
 minimal_mistakes_skin: dirt
 search: true
@@ -38,17 +37,15 @@ timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_t
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -62,14 +59,11 @@ plugins:
 author:
   name   : "Peter Van Katwyk"
   avatar : "assets/images/220502_DSI_Peter_Van_Katwyk_021.png"
-  bio    : "Ph.D. Candidate @ Brown<br>ML Engineer<br>NSF GRFP Fellow"
+  bio    : "Applied Scientist @ Microsoft<br>Ph.D. Brown University"
   links:
-    - label: "Providence, RI"
+    - label: "Redmond, WA"
       icon: "fas fa-fw fa-location-dot"
       url: ""
-    - label: "Brown University"
-      icon: "fas fa-fw fa-building-columns"
-      url: "mailto:peter_van_katwyk@brown.edu"
     - label: "Resume & CV"
       icon: "fas fa-fw fa-file"
       url: "/resume/"

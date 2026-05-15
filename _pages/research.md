@@ -4,19 +4,19 @@ title: "My Research"
 layout: single
 ---
 
-My research is broadly focused on AI for climate and Earth science. I've developed deep learning methods that drastically accelerate climate model predictions while quantifying critical uncertainties—bridging the gap between complex Earth systems and actionable insights. While some of my work involves emulation of ice sheet dynamics, the underlying goals are much broader: creating scalable, interpretable, and uncertainty-aware tools for climate modeling and environmental applications.
+My research focuses on building machine learning systems that are fast, interpretable, and uncertainty-aware, applied to real-world problems. My Ph.D. work focused on scientific ML for Earth and climate science: developing neural network emulators that replace computationally expensive physical simulations while preserving predictive fidelity and rigorously quantifying uncertainty. The underlying methods---probabilistic deep learning, emulation, and scalable ML pipelines---are broadly applicable wherever complex systems need to be understood faster than first-principles models allow.
 
-I've published first-author work in journals like JAMES, GMD, and TMLR, and have coauthored interdisciplinary papers including a high-impact Nature review on AI-driven scientific discovery. I maintain open-source packages like [ise](https://github.com/pvankatwyk/ise), which provide reproducible pipelines for building ML models in geosciences. My work is supported by the NSF GRFP and has been presented at AGU, the International Liège Colloquium, and other major venues.
+I've published first-author work in journals like JAMES, The Cryosphere, TMLR, and Nature Communications, and have coauthored interdisciplinary papers including a high-impact Nature review on AI-driven scientific discovery. I've maintained open-source packages like [`ise-py`](https://github.com/pvankatwyk/ise) for reproducible ML pipelines. My work was supported by the NSF GRFP and has been presented at AGU, the International Liège Colloquium, and other major venues.
 
 ## Publications
 
 ### First-Author
 
-- Van Katwyk et al. (2025) *Rewiring climate modeling with machine learning emulators*. Nature Communications Earth & Environment (in review).
+- Van Katwyk et al. (2026). *Rewiring climate modeling with machine learning emulators*. *Nature Communications Earth & Environment*. [https://doi.org/10.1038/s43247-026-03238-z](https://doi.org/10.1038/s43247-026-03238-z)
 
 - Van Katwyk & Bergen (2025). *HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model*. TMLR. [https://doi.org/10.48550/arXiv.2510.05054](https://doi.org/10.48550/arXiv.2510.05054)
 
-- Van Katwyk et al. (2025). *ISEFlow v1.0: A Flow-Based Neural Network Emulator for Improved Sea Level Projections and Uncertainty Quantification*. *The Cryosphere (submitted)*. [https://doi.org/10.5194/egusphere-2025-4914](https://doi.org/10.5194/egusphere-2025-4914)
+- Van Katwyk et al. (2025). *ISEFlow v1.0: A Flow-Based Neural Network Emulator for Improved Sea Level Projections and Uncertainty Quantification*. *Geoscientific Model Development*. [https://doi.org/10.5194/egusphere-2025-870](https://doi.org/10.5194/egusphere-2025-870)
 
 - Van Katwyk et al. (2023). *A Variational LSTM Emulator of Sea Level Contribution from the Antarctic Ice Sheet*. *JAMES*. [https://doi.org/10.1029/2023MS003899](https://doi.org/10.1029/2023MS003899)
 
@@ -29,6 +29,10 @@ I've published first-author work in journals like JAMES, GMD, and TMLR, and have
 - Barton et al. (2023). *The development of laterite weathering profiles as a function of rainfall and time: A geophysical approach*. *Earth Surface Processes and Landforms*. [https://doi.org/10.1002/esp.5688](https://doi.org/10.1002/esp.5688)
 
 ## Talks (Invited + Oral Presentations)
+
+- Using AI to Emulate Antarctic Ice Sheet Contribution to Sea Level Rise – Brown University DEEPS Guest Lecture, Feb 2026 *(Invited)*
+
+- A Broader View of Sea Level Rise: Using ISEFlow to Emulate Antarctic Ice Sheet Response – Brigham Young University Geology Seminar, Jan 2026 *(Invited)*
 
 - Rewiring Climate Modeling with Emulators: A Case Study in Ice Sheet Emulation, Brown University Lunch Bunch Talk, 2025
 
